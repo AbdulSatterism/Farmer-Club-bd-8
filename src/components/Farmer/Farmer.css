@@ -1,0 +1,36 @@
+.main-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 20px;
+}
+
+.farmer-container {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.farmer-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.cart-container {
+    background-color: #e0dbdb;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+@media screen and (max-width:1100px) {
+    .farmer-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+@media screen and (max-width:767px) {
+    .farmer-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+}

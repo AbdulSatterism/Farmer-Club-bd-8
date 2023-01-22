@@ -1,0 +1,82 @@
+[
+    {
+        "id": "63ccf4b9a1542148fd63e81a",
+        "name": "Corning",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIJac4ppRkFqgesjp8kvmuvcljNQLtrJfvQ&usqp=CAU",
+        "age": 15,
+        "time": 10,
+        "info": ""
+    },
+    {
+        "id": "63ccf4b937a09c4583296fd6",
+        "name": "Rice",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyUFP1nyGBAbQJ_1Wi7PyHYonkPKM0ven5w&usqp=CAU",
+        "age": 33,
+        "time": 15,
+        "info": ""
+    },
+    {
+        "id": "63ccf4b9c7b02b358196d994",
+        "name": "Wheat",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Yno-ZUXE2JR_QTNzcQcghlC60upwlBN-Rg&usqp=CAU",
+        "age": 50,
+        "time": 10,
+        "info": ""
+    },
+    {
+        "id": "63ccf4b94bbc9003c83a944d",
+        "name": "Jute",
+        "img": "https://st4.depositphotos.com/12722406/39733/i/600/depositphotos_397337290-stock-photo-farmer-sets-jute-rack-dry.jpg",
+        "age": 30,
+        "time": 25,
+        "info": ""
+    },
+    {
+        "id": "63ccf4b924bfbdacfacecaba",
+        "name": "Vagetable",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDEb4CeEHM5_Vo7J58GpXK1_Eo0HIYvznaw&usqp=CAU",
+        "age": 25,
+        "time": 10,
+        "info": ""
+    },
+    {
+        "id": "63ccf4b9298e8428446cc163",
+        "name": "Fruits",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ANSD2I3KjB2-U1XjJFbyanbi8sFDnRQr-Q&usqp=CAU",
+        "age": 35,
+        "time": 250,
+        "info": ""
+    },
+    {
+        "id": "63ccf4b9a125e15b20283777",
+        "name": "Onion",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxI5ht0mJ_cxj6xvnyKmVMKd5so_CosPzVTw&usqp=CAU",
+        "age": 45,
+        "time": 10,
+        "info": ""
+    },
+    {
+        "id": "63ccf4b9e61cce6df246ba39",
+        "name": "Mustard",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7k7AN75s2FIVGA8L5_tazcqyGTyg6S73TxA&usqp=CAU",
+        "age": 40,
+        "time": 12,
+        "info": ""
+    },
+    {
+        "id": "63ccf4b94e7e8d843470e789",
+        "name": "Potato",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPk1iOh5kvkX6qUHMueeDDl_pybRde76ybg&usqp=CAU",
+        "age": 52,
+        "time": 15,
+        "info": ""
+    },
+    {
+        "id": "63ccf4b977386888e2985842",
+        "name": "Chili",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgDOACarZXRQkS42hqbcHHbuUwvJBDtbqXTysfQ82O8eL5DAWvZubH8kbUahVSRmI0W8&usqp=CAU",
+        "age": 25,
+        "time": 10,
+        "info": ""
+    }
+]

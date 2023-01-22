@@ -1,0 +1,48 @@
+.cart img {
+    width: 300px;
+    height: 200px;
+    margin: 7px;
+    padding: 7px;
+    margin-bottom: 0;
+    border-radius: 10px;
+}
+
+.cart {
+    height: 400px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    position: relative;
+}
+
+.cart-info h4 {
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: loto;
+}
+
+.cart-info p {
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.cart-info {
+    margin-left: 14px;
+}
+
+.cart-btn {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    background-color: rgb(10, 187, 187);
+    color: black;
+    border: 1px solid lightgray;
+    position: absolute;
+    bottom: 0;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.cart-btn:hover {
+    background-color: #afd9e0;
+    color: black;
+}

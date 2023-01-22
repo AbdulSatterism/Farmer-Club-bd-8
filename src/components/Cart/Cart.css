@@ -1,0 +1,84 @@
+.time-field {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid lightcyan;
+    border-radius: 10px;
+}
+
+.time-field small {
+    color: lightgray;
+}
+
+.my-info img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+}
+
+.my-info {
+    display: flex;
+    margin: 10px;
+    align-items: center;
+}
+
+.my-info h3 {
+    margin-left: 10px;
+}
+
+.bio {
+    background-color: white;
+    display: flex;
+    gap: 5px;
+    padding: 5px;
+    border: 1px solid lightgray;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.bio span {
+    color: gray;
+}
+
+.break {
+    margin-left: 10px;
+    color: rgb(10, 187, 187);
+}
+
+.break-time {
+    display: flex;
+    align-items: center;
+    background-color: gray;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.break-time button {
+    margin-left: 15px;
+    padding: 10px;
+    background-color: white;
+    border: 0px;
+    border-radius: 50px;
+}
+
+.exercise h3 {
+    margin-left: 10px;
+    color: rgb(10, 187, 187);
+}
+
+.btn {
+    width: 90%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid lightgray;
+    background-color: rgb(10, 187, 187);
+    color: black;
+    border-radius: 10px;
+    font-size: 1rem;
+    margin-top: 50px;
+}
+
+.btn:hover {
+    background-color: #afd9e0;
+    color: black;
+}
