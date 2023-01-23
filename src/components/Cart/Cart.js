@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './Cart.css'
 import pic from '../../image/my.jpg'
-import { addToDb } from '../../utilities/storage';
 
 const Cart = ({ carts }) => {
     // console.log(carts)
@@ -16,7 +15,6 @@ const Cart = ({ carts }) => {
         let newTime = event.target.innerText;
         // console.log('clicked', event.target.innerText)
         setBreakTime(newTime)
-        addToDb(newTime)
     }
 
 

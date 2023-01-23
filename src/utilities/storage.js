@@ -19,7 +19,7 @@ const addToDb = (id) => {
     localStorage.setItem('time', JSON.stringify(timeRequired))
 }
 
-const getDataFromDb = (id) => {
+const getDataFromDb = () => {
     let timeRequired = {};
 
     // 

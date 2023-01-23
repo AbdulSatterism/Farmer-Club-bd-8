@@ -12,7 +12,7 @@
         "name": "Rice",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyUFP1nyGBAbQJ_1Wi7PyHYonkPKM0ven5w&usqp=CAU",
         "age": 33,
-        "time": 15,
+        "time": 16,
         "info": ""
     },
     {
@@ -20,7 +20,7 @@
         "name": "Wheat",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Yno-ZUXE2JR_QTNzcQcghlC60upwlBN-Rg&usqp=CAU",
         "age": 50,
-        "time": 10,
+        "time": 11,
         "info": ""
     },
     {
@@ -28,7 +28,7 @@
         "name": "Jute",
         "img": "https://st4.depositphotos.com/12722406/39733/i/600/depositphotos_397337290-stock-photo-farmer-sets-jute-rack-dry.jpg",
         "age": 30,
-        "time": 25,
+        "time": 18,
         "info": ""
     },
     {
@@ -36,7 +36,7 @@
         "name": "Vagetable",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDEb4CeEHM5_Vo7J58GpXK1_Eo0HIYvznaw&usqp=CAU",
         "age": 25,
-        "time": 10,
+        "time": 13,
         "info": ""
     },
     {
@@ -44,7 +44,7 @@
         "name": "Fruits",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ANSD2I3KjB2-U1XjJFbyanbi8sFDnRQr-Q&usqp=CAU",
         "age": 35,
-        "time": 250,
+        "time": 22,
         "info": ""
     },
     {
@@ -52,7 +52,7 @@
         "name": "Onion",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxI5ht0mJ_cxj6xvnyKmVMKd5so_CosPzVTw&usqp=CAU",
         "age": 45,
-        "time": 10,
+        "time": 14,
         "info": ""
     },
     {

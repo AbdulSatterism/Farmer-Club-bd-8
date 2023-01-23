@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { addToDb } from '../../utilities/storage';
+import { addToDb, getDataFromDb } from '../../utilities/storage';
 import Cart from '../Cart/Cart';
 import FarmerCart from '../FarmerCart/FarmerCart';
 import './Farmer.css'
@@ -13,10 +13,23 @@ const Farmer = () => {
             .then(data => setFarmers(data))
     }, [])
 
+    useEffect(() => {
+        const storedCart = getDataFromDb();
+        let savedTime = []
+        for (const time in storedCart) {
+            const addedTime = farmers.find(farmer => farmer.time == time);
+            if (addedTime) {
+                savedTime.push(addedTime)
+            }
+
+        }
+        setCarts(savedTime)
+    }, [farmers])
+
     const handleAddToCart = (farmers) => {
         const newCart = [...carts, farmers]
         setCarts(newCart)
-        addToDb(farmers.name)
+        addToDb(farmers.time)
     }
     return (
         <div className='main-container'>
